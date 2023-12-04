@@ -1,0 +1,6 @@
+@PiusNoteVue.Server_HostAddress = http://localhost:5039
+
+GET {{PiusNoteVue.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
