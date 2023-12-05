@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using PiusNoteVue.Server.Models;
 
 namespace PiusNoteVue.Server.Controllers
 {

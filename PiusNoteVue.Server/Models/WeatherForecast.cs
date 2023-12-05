@@ -1,4 +1,4 @@
-namespace PiusNoteVue.Server
+namespace PiusNoteVue.Server.Models
 {
     public class WeatherForecast
     {
