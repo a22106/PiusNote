@@ -1,6 +1,6 @@
 ﻿using Microsoft.CognitiveServices.Speech.Audio;
 
-namespace PiusNoteVue.Server.Controllers
+namespace PiusNoteClassLibrary
 {
     public class BinaryAudioStreamReader : PullAudioInputStreamCallback
     {

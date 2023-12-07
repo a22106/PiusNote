@@ -3,6 +3,12 @@ using PiusNoteVue.Server.Models;
 
 namespace PiusNoteVue.Server.Controllers
 {
+    /// <summary>
+    /// Weather forecast controller
+    /// </summary>
+    /// <remarks>
+    /// It is a controller that returns weather forecast data.
+    /// </remarks>
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
